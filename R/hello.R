@@ -16,3 +16,7 @@
 hello <- function() {
   print("Hello, world!")
 }
+
+hello1 <- function() {
+  print("Hello, world! How are you?")
+}
